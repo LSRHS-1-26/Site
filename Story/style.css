@@ -1,0 +1,12 @@
+table, th, td {
+  border: 1px solid black;
+}
+body {
+    background: linear-gradient(to left, #ffccff 6%, #ffffff 96%);
+    font-size:10pt;
+    font-family: 'Comfortaa', cursive;
+}
+td {
+  padding: 15px;
+  margin: 15px;
+}
